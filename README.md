@@ -1,1 +1,1 @@
-Using the database you created for assignment 2,CSS, HTML, PHP and MySQL , create a website  that allows someone to update the Bus Trip, Booking, Passenger, Passport and Bus tables.  [image](https://github.com/user-attachments/assets/f459d14c-df97-401b-b752-10ff7447a60b)
+Using the database you created for assignment 2,CSS, HTML, PHP and MySQL , create a website  that allows someone to update the Bus Trip, Booking, Passenger, Passport and Bus tables. 
